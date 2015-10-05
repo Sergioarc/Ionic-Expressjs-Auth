@@ -1,0 +1,24 @@
+{
+  "name": "Ionic-Expressjs-Auth",
+  "version": "0.0.0",
+  "description": "App for auth of user with server expressjs framework and client ionic framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sergioarc/Ionic-Expressjs-Auth.git"
+  },
+  "author": "Sergio",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Sergioarc/Ionic-Expressjs-Auth/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.3",
+    "body-parser":"*",
+    "mongoose":"*",
+    "jsonwebtoken":"*"
+  }
+}
